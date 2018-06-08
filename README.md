@@ -11,7 +11,7 @@ In this first milestone, I reconfigured my Kali VM to run on bridged mode and ra
 
 <img width="793" alt="4" src="https://user-images.githubusercontent.com/37861847/41135170-3ab5c50c-6a85-11e8-9f78-903a6f5af15d.PNG">
 
-In this milestone, I installed SET on my Kali VM and used it to send my throwaway email a phishing email displayed above. 
+In this milestone, I installed SET on my Kali VM and used it to send a phishing email to my throwaway email account as displayed above. 
 
 ## Milestone 2: Try a Real Payload
 
@@ -25,8 +25,10 @@ In this milestone, I again tried sending a test phishing email to myself but thi
 
 In this milestone, I ran `setookkit` and cloned Facebook's login page. The attack can executed if the external IP is sent to the victim and the victim clicks on the link and logs in using his/her credentials. The credentials will then show up on the attacks terminal. In addition, one thing to notice is once the victim enters their credentials on the spoofed website, they are redirected to the legititmate Facebook site and the victim will never know. 
 
-## Bonus Milestone 4: Steal Your Face(book)
+## Milestone 4: Cleanup
 
-## Milestone 5: Cleanup
+<img width="402" alt="8" src="https://user-images.githubusercontent.com/37861847/41139676-041f0490-6a9e-11e8-92f9-f464e5f54133.PNG">
 
-## Milestone 6: SE In Situ
+In this milestone, it was time to clean up the Kali VM to avoid security risks. So, as shown above I reconfigured the Kali VM to use NAT instead of Bridged. 
+
+## Milestone 5: SE In Situ
