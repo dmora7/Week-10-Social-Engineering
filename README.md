@@ -23,7 +23,7 @@ In this milestone, I again tried sending a test phishing email to myself but thi
 
 <img width="882" alt="7" src="https://user-images.githubusercontent.com/37861847/41139417-3ea6c596-6a9c-11e8-8e97-d369c08d098d.PNG">
 
-In this milestone, I ran `setookkit` and cloned Facebook's login page. The attack can executed if the external IP is sent to the victim and the victim clicks on the link and logs in using his/her credentials. The credentials will then show up on the attacks terminal. In addition, one thing to notice is once the victim enters their credentials on the spoofed website, they are redirected to the legititmate Facebook site and the victim will never know. 
+In this milestone, I ran `setoolkit` and cloned Facebook's login page. The attack can executed if the external IP is sent to the victim and the victim clicks on the link and logs in using his/her credentials. The credentials will then show up on the attacks terminal. In addition, one thing to notice is once the victim enters their credentials on the spoofed website, they are redirected to the legititmate Facebook site and the victim will never know. 
 
 ## Milestone 4: Cleanup
 
