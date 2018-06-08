@@ -11,7 +11,7 @@ In this first milestone, I reconfigured my Kali VM to run on bridged mode and ra
 
 <img width="793" alt="4" src="https://user-images.githubusercontent.com/37861847/41135170-3ab5c50c-6a85-11e8-9f78-903a6f5af15d.PNG">
 
-In this milestone, I installed SET and used it to send my throwaway email a phishing test email displayed above. 
+In this milestone, I installed SET on my Kali VM and used it to send my throwaway email a phishing email displayed above. 
 
 ## Milestone 2: Try a Real Payload
 
@@ -20,6 +20,10 @@ In this milestone, I installed SET and used it to send my throwaway email a phis
 In this milestone, I again tried sending a test phishing email to myself but this time using a payload. However, GMail has secuirty features that look out for signatures within attachments and my test email was not able to be sent as the error displays above. The goal here was to see how it takes more than a sript kiddie to send a spear phishing email attack nowadays. 
 
 ## Milestone 3: Fakebook
+
+<img width="882" alt="7" src="https://user-images.githubusercontent.com/37861847/41139417-3ea6c596-6a9c-11e8-8e97-d369c08d098d.PNG">
+
+In this milestone, I ran `setookkit` and cloned Facebook's login page. The attack can executed if the external IP is sent to the victim and the victim clicks on the link and logs in using his/her credentials. The credentials will then show up on the attacks terminal. In addition, one thing to notice is once the victim enters their credentials on the spoofed website, they are redirected to the legititmate Facebook site and the victim will never know. 
 
 ## Bonus Milestone 4: Steal Your Face(book)
 
