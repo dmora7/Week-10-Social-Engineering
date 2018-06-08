@@ -31,4 +31,4 @@ In this milestone, I ran `setookkit` and cloned Facebook's login page. The attac
 
 In this milestone, it was time to clean up the Kali VM to avoid security risks. So, as shown above I reconfigured the Kali VM to use NAT instead of Bridged. 
 
-## Milestone 5: SE In Situ
+
