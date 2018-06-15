@@ -1,3 +1,37 @@
+# Week 10 Assignment - The Dark Side
+
+<img width="943" alt="40" src="https://user-images.githubusercontent.com/37861847/41450438-9f847130-701c-11e8-8508-1b769427c971.PNG">
+
+## Part 2 The Darknet & Cryptocurrency
+ 
+### Challenge 2.0: Tool Up 
+
+<img width="609" alt="41" src="https://user-images.githubusercontent.com/37861847/41450567-777ff38e-701d-11e8-8b41-fbff869630fe.PNG">
+
+<img width="477" alt="42" src="https://user-images.githubusercontent.com/37861847/41450614-b6c757a8-701d-11e8-9828-2181fbd5d932.PNG">
+
+### Challenge 2.1: Switching Circuits
+
+<img width="467" alt="43" src="https://user-images.githubusercontent.com/37861847/41451146-65e86072-7020-11e8-9391-4b34272bb68f.PNG">
+
+<img width="447" alt="44" src="https://user-images.githubusercontent.com/37861847/41451154-6d723b24-7020-11e8-9859-2c93ee0a9215.PNG">
+
+### Challenge 2.2: Onions
+
+<img width="470" alt="45" src="https://user-images.githubusercontent.com/37861847/41450722-60132a1c-701e-11e8-97dd-8fc9b2d0b979.PNG">
+
+### Challenge 2.3: Into the Darkness
+
+<img width="461" alt="46" src="https://user-images.githubusercontent.com/37861847/41450834-c9da5b46-701e-11e8-8b18-32657ed1a973.PNG">
+
+### Challenge 2.4: How (Not) To Get Busted
+
+<img width="460" alt="47" src="https://user-images.githubusercontent.com/37861847/41451072-ff2ac474-701f-11e8-9ef4-245952b02e1e.PNG">
+
+### Challenge 2.5: Then Came The Money
+
+<img width="446" alt="48" src="https://user-images.githubusercontent.com/37861847/41451076-05a4c232-7020-11e8-8c8d-b8de76da0a58.PNG">
+
 # Week 10 Lab Exercises - Gone Phishin'
 ## Milestone 0: Kali Gone Wild
 
